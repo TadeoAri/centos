@@ -4,7 +4,7 @@ echo "Bienvenidos a CentOS!"
 
 mkdir -p Tarea1
 
-echo "Hola esta es nuestra información dentro de nuestro fichero" < "Tarea1/Capcom.txt"
+echo "Hola esta es nuestra informaciÃ³n dentro de nuestro fichero" > "Tarea1/Capcom.txt"
 
 cd Tarea1
 
